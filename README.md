@@ -12,7 +12,7 @@ THavalon follows the same rules as The Resistance: Avalon, with the modification
 - *Tristan* and *Iseult*: see each other; always appear together; can be Assassinated as a pair.
 - *Lancelot*: may play Reversal cards while on missions; appears Evil to Merlin.
 - *Nimue* (5): knows which roles are in the game; can be Assassinated. 
-- *Arthur* (7+): knows which Good roles are present; may declare after 2 Failed and 0-1 Successful missions to become immune to vote manipulation and make their votes on mission proposals count twice, but lose the ability to be on mission teams until the 5th mission.
+- *Arthur* (7+): knows which Good roles are present; may declare after 2 Failed and 0-1 Successful missions to make their votes on mission proposals count twice, but lose the ability to be on mission teams until the 5th mission.
 - *Titania* (7+): appears as Evil to Evil roles (except Colgrevance). 
 
 ## Evil Roles
