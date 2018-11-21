@@ -6,7 +6,7 @@ You absolutely do not need to play with all the rules changes listed here, and m
 THavalon is balanced around games of 5, 7, 8, or 10 players. 6- and 9-player games are heavily imbalanced in favor of the Good team in the base game (due to the 2:1 ratio of Good to Evil roles), and THavalon's insistence on providing every player with a unique role makes these games even more difficult for Evil.
 
 # Using thavalon.py 
-THavalon has a game engine, written in Python3, that is used to generate files containing each player's role information. To use this engine, install Python3 on your machine, download thavalon.py, and run the code in a terminal (Command Line, Git Bash, etc.) using <code>python3 thavalon.py</code> or <code>py thavalon.py</code> followed by the names of the players separated by spaces, as shown in the example below. 
+THavalon has a game engine, written in Python3, that is used to generate files containing each player's role information. To use this engine, install Python3 on your machine, download thavalon.py, and the open a terminal (Command Line, Git Bash, etc.). Once the terminal is open, navigate to the directory containing thavalon.py and then enter the code to run the python script, using <code>python3 thavalon.py</code> or <code>py thavalon.py</code> followed by the names of the players separated by spaces, as shown in the example below. 
 
 <code>py thavalon.py Alice Bob Charlie Dave Eve</code>  
 
