@@ -141,7 +141,7 @@ def get_player_info(player_names):
 		if random.choice([True, False]):
 			# replacing the lone lover
 			available_roles = set(good_roles)-set(good_roles_in_game)-set(['Tristan','Iseult'])
-			good_roles_in_game.append(random.sample(set(available_roles),1)[0])
+			good_roles_in_game.append(random.sample(available_roles,1)[0])
 		else: 
 			# upgrading to pair of lovers
 			rerolled = random.choice(good_roles_in_game)
